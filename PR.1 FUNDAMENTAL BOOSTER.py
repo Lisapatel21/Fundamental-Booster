@@ -14,9 +14,6 @@ birth_year = current_year - age
 rounded_height = int(height)
 
 
-age_after_10 = age + 10
-
-
 print(f"NAME")
 print("Value :", name)
 print("Type :", type(name))
